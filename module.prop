@@ -1,0 +1,6 @@
+id=dynamicpropgenie
+name=DynamicPropGenie
+version=1.0
+versionCode=1
+author=devayu999
+description=A versatile Magisk module to dynamically override Android build properties for any ROM
