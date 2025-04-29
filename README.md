@@ -14,16 +14,17 @@ With this module, you can:
 Use the latest [Magisk](https://magiskmanager.com/) manager.
 
 ## How to use?
-1. Modify the data.prop inside the module zip with your preffered values.
+1. Modify the data.prop inside the module zip with your preferred values.
 2. Flash the .zip with Magisk.
 3. Reboot your device and enjoy customized system properties.
 
 ## Before  
-![Before](https://gist.github.com/user-attachments/assets/c126a488-6ee5-40b6-bf40-5a43a8bc0e39)
+![Before](https://gist.github.com/user-attachments/assets/c126a488-6ee5-40b6-bf40-5a43a8bc0e39/raw)
 
 ## After  
-![After](https://gist.github.com/user-attachments/assets/151a121c-8a0c-4d4a-9a8b-395719a7bf97)
+![After](https://gist.github.com/user-attachments/assets/151a121c-8a0c-4d4a-9a8b-395719a7bf97/raw)
 
 # Thank You 🍉  
 > **Note:** If you have any questions or suggestions, feel free to email me at  
 **ayushkumar274549@gmail.com**.
+> 
