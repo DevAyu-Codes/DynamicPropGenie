@@ -19,7 +19,7 @@ Use the latest [Magisk](https://magiskmanager.com/) manager.
 3. Reboot your device and enjoy customized system properties.
 
 ## Before  
-![Before](https://gist.github.com/user-attachments/assets/c126a488-6ee5-40b6-bf40-5a43a8bc0e39/raw)
+![Before](https://github-production-user-asset-6210df.s3.amazonaws.com/205454648/438920500-c126a488-6ee5-40b6-bf40-5a43a8bc0e39.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250429T182208Z&X-Amz-Expires=300&X-Amz-Signature=36434c9b61fd70b884b39a88e6cf8ba9252d955dd17f7c71ff6e8dd1479d64a7&X-Amz-SignedHeaders=host)
 
 ## After  
 ![After](https://github-production-user-asset-6210df.s3.amazonaws.com/205454648/438920221-151a121c-8a0c-4d4a-9a8b-395719a7bf97.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250429T182100Z&X-Amz-Expires=300&X-Amz-Signature=93b10329ce43362e5168aca6a9a4ccbd68e8aa8db7e52a38a32893dbdbcc288f&X-Amz-SignedHeaders=host)
