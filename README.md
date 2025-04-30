@@ -18,6 +18,10 @@ Use the latest [Magisk](https://magiskmanager.com/) manager.
 2. Flash the .zip with Magisk.
 3. Reboot your device and enjoy customized system properties.
 
+## Tested Devices
+1. Moto G54 5G (Cancunf) on InfinityX 2.7 ROM.
+2. Infinix Note 11s (Sword) on EvolutionX GSI.
+
 ## Before
 ![Before](https://github-production-user-asset-6210df.s3.amazonaws.com/205454648/438920500-c126a488-6ee5-40b6-bf40-5a43a8bc0e39.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250429T182208Z&X-Amz-Expires=300&X-Amz-Signature=36434c9b61fd70b884b39a88e6cf8ba9252d955dd17f7c71ff6e8dd1479d64a7&X-Amz-SignedHeaders=host)
 
