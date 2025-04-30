@@ -1,8 +1,37 @@
-ROMNAME="lineage"
+# Note: only those value will get updated that are supported by your rom, also leave the values empty if you don't intend to apply them.
+
+# Required ROM Identity
+ROMNAME="infinity"
+ROM_VERSION="2.8"
+
+# Maintainer Info
 MAINTAINER="Ayu Kashyap"
+
+# Device Info
 MARKETNAME="Moto G54 5G"
+VENDOR_MODEL="XT2343-5"
+DEVICE="g54"
+BRAND="motorola"
+NAME="g54"
+SYSTEM_MODEL="Moto G54"
+
+# Build Info
 BUILD_STATUS="OFFICIAL"
 BUILDTYPE="OFFICIAL"
+BUILD_TYPE="userdebug"
+BUILD_TAGS="release-keys"
+DESCRIPTION="infinity_g54-userdebug 14 UQ1A.240205.002 20240405 release-keys"
+BUILD_ID="UQ1A.240205.002"
+BUILD_DATE="2025-04-30"
+BUILD_HOST="buildserver"
+BUILD_USER="ayukashyap"
+
+# Display and Hardware Info
 DISPLAY="1080x2400 (120Hz)"
 CAMERA="50MP+8MP, 16MP"
 SOC="MediaTek Dimensity 7020"
+BATTERY="6000mAh (Non-removable Li-Po)"
+
+# Security Patch Info
+SYSTEM_SECURITY_PATCH="2025-05-05"
+VENDOR_SECURITY_PATCH="2025-05-01"
